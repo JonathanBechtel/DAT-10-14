@@ -1,5 +1,5 @@
 # DAT-10-14
-Master repo for all class material that will be usedin General Assembly's part-time data science class, beginning at 10/14/2019 and completing until 01/06/2020.  
+Master repo for all class material that will be usedin General Assembly's part-time data science class, beginning at 10/14/2019 and completing until 01/08/2020.  
 
 # Important Dates
  - Days:  Monday, Wednesday
